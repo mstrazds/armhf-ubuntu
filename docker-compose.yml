@@ -1,0 +1,7 @@
+# ARM (arch) Ubuntu Baseimage
+arm_ubuntu:
+  container_name: arm_ubuntu
+  build: .
+  dockerfile: Dockerfile
+  ports:
+    - '80:80'

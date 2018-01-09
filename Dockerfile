@@ -1,4 +1,4 @@
-FROM armv7/armhf-ubuntu_core
+FROM mstrazds/armhf-ubuntu_1604
 
 # a few minor docker-specific tweaks
 # see https://github.com/tianon/docker-brew-ubuntu-core/blob/a9da4b3cd8977c2aacafe5d9d0056cbb360f2d1c/trusty/Dockerfile
